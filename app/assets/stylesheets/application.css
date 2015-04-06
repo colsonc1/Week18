@@ -1,11 +1,23 @@
 body {
-	background-color: blue;
+	background-color: #246959;
 }
 
 h1 {
 	font-size: 50px;
 }
 
+p {
+	color: white;
+}
+
+li {
+	color: white;
+}
+
+a {
+	color: white;
+	font-size: 35px;
+}
 /*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
